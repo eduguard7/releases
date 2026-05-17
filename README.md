@@ -34,7 +34,7 @@ Task Manager, CMD ani PowerShell.
 
 👉 [eduguard.pl](https://eduguard.pl)  
 📘 [Kampania wspieram.to](https://wspieram.to/eduguard)  
-📧 kontakt@eduguard.pl
+📧 biuro@eduguard.pl
 
 ---
 

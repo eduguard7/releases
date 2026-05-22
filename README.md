@@ -33,7 +33,6 @@ Task Manager, CMD ani PowerShell.
 ## 🌐 Więcej informacji
 
 👉 [eduguard.pl](https://eduguard.pl)  
-📘 [Kampania wspieram.to](https://wspieram.to/eduguard)  
 📧 biuro@eduguard.pl
 
 ---
